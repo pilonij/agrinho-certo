@@ -23,3 +23,8 @@ section{
 div{
     padding: 30%;;
 }
+section{
+    display: flex;
+    align-items: baseline;
+    background-color: antiquewhite;
+}
